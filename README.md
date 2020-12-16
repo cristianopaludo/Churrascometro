@@ -15,6 +15,7 @@
  #### Melhorias:
 
  - Verificador de dados inseridos
+ 
  Criei um verificador para alertar o usuário quando for colocado dados incorretos. Deste modo, ao inserir um dado não esperado o programa emite um alerta para o user e para de executar imatiatamente.
 
 
