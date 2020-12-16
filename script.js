@@ -38,7 +38,7 @@ function calcular() {
                             <p>${refrigerante} garrafas de 2L de refrigerante</p>`
     } else {
         result.innerHTML =  `<h2>Tente novamente!</h2>
-                            <p>Algum errou ocorreu por que você não preencheu algum campo
-                            ou utilizou algum número negativo.</p>`
+                            <p>Ocorreu algum erro por que você não preencheu algum campo
+                            ou você utilizou algum número negativo.</p>`
     }
 }
